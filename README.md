@@ -1,7 +1,7 @@
 # HL7v2Processor
 HL7 v2 Deserializer/Serializer
 
-##Functionality
+## Functionality
 - Process hl7 streams without loading entire dataset into memory
 - Parse any HL7 stream, regardless of schema
 - Parse an HL7 stream into an object model
